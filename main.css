@@ -1,0 +1,70 @@
+body {
+  font-family: "montserrat", sans-serif;
+  background-size: cover;
+  background-position: top center;
+  text-align: center;
+  background-image: url("background.jpg");
+}
+#searchBox {
+  width: 100%;
+  max-width: 280px;
+  padding: 10px 15px;
+  border: none;
+  outline: none;
+  background-color: rgba(241, 241, 241, 0.3);
+  border-radius: 16px 0px 16px 0px;
+  border-bottom: 3px solid #0c8db4;
+
+  color: #000000;
+  font-size: 20px;
+  font-weight: 300;
+  transition: 0.2s ease-out;
+}
+#searchBtn {
+  background: #00bae9;
+  color: rgb(255, 255, 255);
+  border: none;
+  position: relative;
+  height: 50px;
+  font-size: 1.6em;
+  padding: 0 2em;
+  cursor: pointer;
+  transition: 800ms ease all;
+  outline: none;
+}
+#city {
+  font-family: Arial, Helvetica;
+  font-size: 30px;
+  color: #00bae9;
+  font-weight: bold;
+  position: relative;
+
+  top: 50%;
+}
+#showTemp {
+  font-family: Arial, Helvetica;
+  font-size: 30px;
+  color: #00bae9;
+  font-weight: bold;
+  position: relative;
+
+  top: 50%;
+}
+#humidity {
+  font-family: Arial, Helvetica;
+  font-size: 30px;
+  color:#00bae9;
+  font-weight: bold;
+  position: relative;
+
+  top: 50%;
+}
+#country {
+  font-family: Arial, Helvetica;
+  font-size: 30px;
+  color:#00bae9;
+  font-weight: bold;
+  position: relative;
+
+  top: 50%;
+}

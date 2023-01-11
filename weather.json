@@ -1,0 +1,46 @@
+{
+
+    "coord": {
+        "lon": -5,
+        "lat": 32
+    },
+    "weather": [
+        {
+            "id": 800,
+            "main": "Clear",
+            "description": "clear sky",
+            "icon": "01d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 16.9,
+        "feels_like": 15.14,
+        "temp_min": 16.9,
+        "temp_max": 16.9,
+        "pressure": 1007,
+        "humidity": 19,
+        "sea_level": 1007,
+        "grnd_level": 862
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 9.42,
+        "deg": 271,
+        "gust": 15.3
+    },
+    "clouds": {
+        "all": 0
+    },
+    "dt": 1671117990,
+    "sys": {
+        "country": "MA",
+        "sunrise": 1671088384,
+        "sunset": 1671124633
+    },
+    "timezone": 3600,
+    "id": 2542007,
+    "name": "Morocco",
+    "cod": 200
+
+}
